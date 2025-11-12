@@ -1,0 +1,29 @@
+# Output of the go coverage tool
+backend/coverage.out
+backend/coverage.html
+backend/c.out
+
+# Dependency directories
+backend/vendor/
+
+# Environment files
+backend/.env
+
+# Go module proxy
+backend/go.sum.backup
+
+# Dependencies
+frontend/node_modules/
+
+# Production build
+frontend/dist/
+frontend/build/
+
+# Environment files
+frontend/.env
+
+# Coverage directory used by tools like istanbul
+frontend/coverage/
+
+# Next.js specific
+frontend/.next/
