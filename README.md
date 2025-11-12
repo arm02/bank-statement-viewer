@@ -5,6 +5,16 @@
 Build a small full-stack app that lets users upload a bank statement file, view insights, and
 inspect transaction issues.
 
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Go** v1.25 or higher
+- **Node.js** v20 or higher
+- **npm** or **yarn**
+- **Make** (for using Makefiles)
+- **Git**
+
 ## 🛠️ Setup Instructions
 
 ### Option 1: Automated Setup (Recommended)
